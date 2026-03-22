@@ -6,7 +6,7 @@ micrograd 是 Andrej Karpathy 寫的一個微型自動微分框架，只有約 1
 
 github: https://github.com/karpathy/micrograd
 
-本書使用的程式碼位於：[_code/nn0py/nn0.py](https://github.com/karpathy/micrograd)（模組化版本）
+本書使用的程式碼位於：[_code/nn0py/nn0.py](../_code/nn0py/nn0.py)（模組化版本）
 
 ## 核心：Value 類別
 
