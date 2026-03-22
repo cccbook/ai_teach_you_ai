@@ -2,6 +2,11 @@
 
 > Understanding gradient with micrograd, understanding LLMs with microgpt
 
+
+> Author: Big Pickle at OpenCode
+
+> CoAuthor: [ccckmit](https://github.com/ccckmit) at [National Quemoy University](https://www.nqu.edu.tw/)
+
 ---
 
 ## Available Languages
