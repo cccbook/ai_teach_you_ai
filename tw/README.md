@@ -44,8 +44,19 @@
 
 ## 核心程式碼
 
+### 參考來源
+
 * [micrograd](https://github.com/karpathy/micrograd) - 自動微分引擎
 * [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95) - 完整 GPT 實現
+
+### 本書範例程式碼
+
+* [_code/nn0py/nn0.py](../_code/nn0py/nn0.py) - 自動微分引擎（自動梯度計算）
+* [_code/nn0py/gpt0.py](../_code/nn0py/gpt0.py) - GPT 模型實作
+* [_code/nn0py/cnn0.py](../_code/nn0py/cnn0.py) - CNN 模型實作
+* [_code/nn0py/test_gpt0.py](../_code/nn0py/test_gpt0.py) - GPT 訓練與推理測試
+* [_code/gd/gd.py](../_code/gd/gd.py) - 梯度下降實作（數值微分）
+* [_code/gd/gd_array.py](../_code/gd/gd_array.py) - 向量化梯度下降
 
 ---
 
