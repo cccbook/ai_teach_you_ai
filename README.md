@@ -1,4 +1,4 @@
-# Let AI Teach You Modern AI
+# E-Book: Let AI Teach You Modern AI
 
 > Understanding gradient with micrograd, understanding LLMs with microgpt
 
